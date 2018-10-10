@@ -8,7 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/client_main.iml" group="client" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/client_test.iml" group="client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo.iml" filepath="$PROJECT_DIR$/dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo_main.iml" group="dubbo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo_test.iml" group="dubbo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
